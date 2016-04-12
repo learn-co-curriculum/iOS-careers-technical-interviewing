@@ -119,6 +119,8 @@ Knock ‘em dead.
 
 ## Assignment 
 
+There is nothing you need to submit for this, but the action items below are very important and you should take your time and complete all of them. 
+
 Technical aptitude is an important factor when interviewing so be sure to spend a healthy amount of time studying and sharpening your skills. 
 
 - Sign up for [Project Euler](https://projecteuler.net/) and start solving problems.
