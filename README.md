@@ -35,7 +35,7 @@ Typically there are two types of technical phone screens:
 
 > What does MVC stand for and how does it work?
 
-To do well, you’ll need to study. An easy way to find interview questions is simply to google `Interview Questions <Language>` with <language> being whichever language the job requires (e.g. Ruby, JavaScript, etc). You can, and should, also read technical books like:
+To do well, you’ll need to study. An easy way to find interview questions is simply to google `Interview Questions <Language>` with \<language> being whichever language the job requires (e.g. Ruby, JavaScript, etc). You can, and should, also read technical books like:
 
 - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
 - [Eloquent JavaScript](http://eloquentjavascript.net/)
@@ -67,13 +67,13 @@ Then you stand at a whiteboard discussing the right solution with your interview
 
 If you can’t remember the method to return the first item in an array and remove it, just ask. It’s not a memorization problem.
 
-Feel free to have magic methods that remove some of the incidental complexities. For example, if I was designing an algorithm to find if a number was prime, and I needed a method to find if a number was divisible by 1 through 10, I would just say “ok I have a magic, is divisible method.” Sometimes they will say no go and implement that, other times they’ll be fine with it.
+Feel free to have magic methods that remove some of the incidental complexities. For example, if I was designing an algorithm to find if a number was prime, and I needed a method to find if a number was divisible by 1 through 10, I would just say “ok I have a magic `is divisible` method.” Sometimes they will say no-go and have you implement it; other times they’ll be fine with it.
 
 > Pro-tip: **Be vocal!** Walk your interviewer through your thought process and ask questions throughout the process to ensure you fully understand what’s being asked of you. A big piece of critical feedback employers often have is that candidates don’t talk enough in technical interviews 
 
 3. Pair-programming.
 
-	Pair-programming we also covered earlier but this time it’s in person. An added bonus here is that you’ll develop a strong understanding of what it might be like to work with that person. 
+	Pair-programming we also covered earlier, but this time it’s in person. An added bonus here is that you’ll develop a strong understanding of what it might be like to work with that person. 
 
 
 ## Admit When You Don't Know Something 
@@ -87,7 +87,7 @@ If you simply don’t know the answer to a question, be honest and admit you don
 
 **Interviewers already know the right answer before they ask you the question**.
 
-A graceful way to answer is, “I’m sorry, I don’t know the answer to that but I’ll take some time to learn about it after this interview”. 
+A graceful way to answer is, “I’m sorry, I don’t know the answer to that, but I’ll take some time to learn about it after this interview”. 
 
 ## What to Do If You Make a Mistake (Stay Calm)
 
@@ -99,9 +99,9 @@ It’s likely you’ll make a few mistakes during the interview.
 
 There a million other things that might go wrong. Interviewing - technical or otherwise - is stressful. The trick to doing well is staying calm and maintaining your composure.
 
-Every developer knows that you don’t just wake up one day, build an entire application from scratch, and run it without a single bug. Real-life development is iterative and you’re allowed to make mistakes in an interview so don’t beat yourself up if you get something wrong.
+Every developer knows that you don’t just wake up one day, build an entire application from scratch, and run it without a single bug. Real-life development is iterative, and you’re allowed to make mistakes in an interview. Don’t beat yourself up if you get something wrong.
 
-If you don’t know the answer to one (or some) of the trivia questions, that’s okay. Just admit you don’t know and the interviewer will move on.
+If you don’t know the answer to one (or some) of the trivia questions, that’s okay. Just admit you don’t know, and the interviewer will move on.
 
 You might have been asked an ambiguous algorithm question and don’t know where to start. The interviewer may have done that intentionally. Don’t be afraid to ask questions and probe for more information. It’s also okay to take a minute and think about the problem before you attempt to solve it.
 
@@ -109,7 +109,7 @@ Last but not least...
 
 ## Have Fun With It
 
-Junior developers often get anxious when it comes to technical interviews. It’s normal. You may feel like you have a lot riding on the interview but the best way to succeed is to have as much fun as you can. 
+Junior developers often get anxious when it comes to technical interviews. It’s normal. You may feel like you have a lot riding on the interview, but the best way to succeed is to have as much fun as you can.
 
 Treat technical interviews as if you are already on the team. Ask questions like you would in your group projects. Treat your interviewer like s/he’s your partner and you are collaborating to build a fun new app.
 
@@ -131,6 +131,5 @@ Technical aptitude is an important factor when interviewing so be sure to spend 
 - Read this blog post: [How to Make the Most Out of Your Technical Interview](http://blog.flatironschool.com/how-to-make-the-most-out-of-your-next-technical/)
 - [Read these coding interview tips](https://www.interviewcake.com/article/java/coding-interview-tips)
 - [Check out this blog on how to pass a programming interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
-
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-technical-interviewing'>Careers Technical Interviewing</a> on Learn.co and start learning to code for free.</p>
