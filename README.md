@@ -117,9 +117,9 @@ If you think of tech interviews as less about being evaluated and more about wor
 
 Knock ‘em dead.
 
-## Assignment 
+## Next Steps 
 
-There is nothing you need to submit for this, but the action items below are very important and you should take your time and complete all of them. 
+The action items below are very important and you should take your time and complete all of them. 
 
 Technical aptitude is an important factor when interviewing so be sure to spend a healthy amount of time studying and sharpening your skills. 
 
