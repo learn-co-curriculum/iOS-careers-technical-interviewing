@@ -31,14 +31,16 @@ Typically there are two types of technical phone screens:
 
 1. **Trivia**: essentially a Q&A session. The interviewer will quiz you on terminology:
 
-> What’s the difference between == and === in JavaScript?
+> What’s the difference between CoreData & NSUserDefaults?
 
 > What does MVC stand for and how does it work?
 
 To do well, you’ll need to study. An easy way to find interview questions is simply to google `Interview Questions <Language>` with \<language> being whichever language the job requires (e.g. Ruby, JavaScript, etc). You can, and should, also read technical books like:
 
-- [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
-- [Eloquent JavaScript](http://eloquentjavascript.net/)
+ - [ProSwift](https://gumroad.com/l/proswift)
+ - [Advanced Swift](https://www.objc.io/books/advanced-swift/)
+ - [RxSwift](https://store.raywenderlich.com/products/rxswift)
+ - [Functional Swift](https://www.objc.io/books/functional-swift/)
 
 Note: this style of interview is a relic from the past and is becoming less common than pair-programming, but still exists (and you should still be prepared for it!):
 
