@@ -35,7 +35,7 @@ Typically there are two types of technical phone screens:
 
 > What does MVC stand for and how does it work?
 
-To do well, you’ll need to study. An easy way to find interview questions is simply to google `Interview Questions <Language>` with \<language> being whichever language the job requires (e.g. Ruby, JavaScript, etc). You can, and should, also read technical books like:
+To do well, you’ll need to study. An easy way to find interview questions is simply to google `Interview Questions <Language>` with \<language> being whichever language the job requires (e.g. Swift, Objective-C, etc). You can, and should, also read technical books like:
 
  - [ProSwift](https://gumroad.com/l/proswift)
  - [Advanced Swift](https://www.objc.io/books/advanced-swift/)
