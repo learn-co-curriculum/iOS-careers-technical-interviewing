@@ -1,14 +1,14 @@
 ## Technical Interviewing
 
-Technical interviews are where the magic happens. It’s where you get to meet potential teammates and collaborate with other developers to solve problems. 
+Technical interviews are where the magic happens. It’s where you get to meet potential teammates and collaborate with other developers to solve problems.
 
 Interviewers may approach the tech portion differently but the objective is always the same: **assess whether you are the right person to join their team**.
 
-No need to worry though. You’ve been coding for months and now it’s time to show off those skills! Let’s go over the different formats and how best to prepare. 
+No need to worry though. You’ve been coding for months and now it’s time to show off those skills! Let’s go over the different formats and how best to prepare.
 
 ## Formats
 
-There are a number of different formats for technical interviewing. You may encounter one, some, or all of these formats during your interviewing journey. Every company interviews in a different way. Some may start with a code challenge while others start with whiteboarding and save the code challenge for the end. Be ready for anything! 
+There are a number of different formats for technical interviewing. You may encounter one, some, or all of these formats during your interviewing journey. Every company interviews in a different way. Some may start with a code challenge while others start with whiteboarding and save the code challenge for the end. Be ready for anything!
 
 Here is a list of the types of interviews you can expect and should be prepared for.
 
@@ -23,7 +23,7 @@ Here is a list of the types of interviews you can expect and should be prepared 
 
 ### Coding Challenges
 
-We have a whole other lab on coding challenges so we won’t get into details here but the gist is a company will send you a “take home” challenge where they ask you to build an app in an allotted amount of time, sometimes in a specific language, sometimes in a language of your choice. 
+We have a whole other lab on coding challenges so we won’t get into details here but the gist is a company will send you a “take home” challenge where they ask you to build an app in an allotted amount of time, sometimes in a specific language, sometimes in a language of your choice.
 
 ### Technical Phone Screens
 
@@ -50,7 +50,7 @@ Typically, the interviewer will ask you to solve an algorithmic problem and ask 
 
 **The point of pair-programming is to gauge how you solve problems, how you communicate, and how easy it is to work with you.**
 
-You should feel comfortable Googling anything you need to. The interviewer will stop you if it’s not okay. **Always try.** 
+You should feel comfortable Googling anything you need to. The interviewer will stop you if it’s not okay. **Always try.**
 
 Both formats are typical for first-round interviews and usually last 30-60 minutes.
 
@@ -58,42 +58,42 @@ Both formats are typical for first-round interviews and usually last 30-60 minut
 
 In-person interviews tend to come later in the process once you’ve passed a phone screen and/or completed a technical phone interview or code challenge.  In-person technical interviews are often a mix of trivia and whiteboarding or pair programming.
 
-1. Trivia we’ve already covered. Instead of being asked over the phone or Hangout, you’ll be asked questions in person. 
+1. Trivia we’ve already covered. Instead of being asked over the phone or Hangout, you’ll be asked questions in person.
 
 2. Whiteboarding:
 
-This is the most traditional type of technical interview and is where you are asked to solve an algorithm question using a marker and a whiteboard. You might be asked a question like: 
+This is the most traditional type of technical interview and is where you are asked to solve an algorithm question using a marker and a whiteboard. You might be asked a question like:
 > Given an array_of_ints, find the highest_product you can get from three of the integers.
 
-Then you stand at a whiteboard discussing the right solution with your interviewer while writing out the code by hand. Interviewers want to see that you can code the solution without a computer and communicate effectively. 
+Then you stand at a whiteboard discussing the right solution with your interviewer while writing out the code by hand. Interviewers want to see that you can code the solution without a computer and communicate effectively.
 
 If you can’t remember the method to return the first item in an array and remove it, just ask. It’s not a memorization problem.
 
 Feel free to have magic methods that remove some of the incidental complexities. For example, if I was designing an algorithm to find if a number was prime, and I needed a method to find if a number was divisible by 1 through 10, I would just say “ok I have a magic `is divisible` method.” Sometimes they will say no-go and have you implement it; other times they’ll be fine with it.
 
-> Pro-tip: **Be vocal!** Walk your interviewer through your thought process and ask questions throughout the process to ensure you fully understand what’s being asked of you. A big piece of critical feedback employers often have is that candidates don’t talk enough in technical interviews 
+> Pro-tip: **Be vocal!** Walk your interviewer through your thought process and ask questions throughout the process to ensure you fully understand what’s being asked of you. A big piece of critical feedback employers often have is that candidates don’t talk enough in technical interviews
 
 3. Pair-programming.
 
-	Pair-programming we also covered earlier, but this time it’s in person. An added bonus here is that you’ll develop a strong understanding of what it might be like to work with that person. 
+	Pair-programming we also covered earlier, but this time it’s in person. An added bonus here is that you’ll develop a strong understanding of what it might be like to work with that person.
 
 
-## Admit When You Don't Know Something 
+## Admit When You Don't Know Something
 
 When you’re stumped, try and compare it to something you do know (e.g. “So Tree Maps are like Hash Maps, let me talk about hash maps...”
 
 
 If you come across an algorithm you don’t know and you are asked to implement it, ask your interviewer to explain it, then do your best to directly transfer what they said into real code. Don’t do any optimizations the first time around.
 
-If you simply don’t know the answer to a question, be honest and admit you don’t know. Don’t lie or try to BS your way through it. 
+If you simply don’t know the answer to a question, be honest and admit you don’t know. Don’t lie or try to BS your way through it.
 
 **Interviewers already know the right answer before they ask you the question**.
 
-A graceful way to answer is, “I’m sorry, I don’t know the answer to that, but I’ll take some time to learn about it after this interview”. 
+A graceful way to answer is, “I’m sorry, I don’t know the answer to that, but I’ll take some time to learn about it after this interview”.
 
 ## What to Do If You Make a Mistake (Stay Calm)
 
-It’s likely you’ll make a few mistakes during the interview. 
+It’s likely you’ll make a few mistakes during the interview.
 
 - You might have a syntax error when you run your code during the pair-programming portion.
 - You might not know the answer to one of the trivia questions.
@@ -119,16 +119,16 @@ If you think of tech interviews as less about being evaluated and more about wor
 
 Knock ‘em dead.
 
-## Next Steps 
+## Next Steps
 
-The action items below are very important and you should take your time and complete all of them. 
+The action items below are very important and you should take your time and complete all of them.
 
-Technical aptitude is an important factor when interviewing so be sure to spend a healthy amount of time studying and sharpening your skills. 
+Technical aptitude is an important factor when interviewing so be sure to spend a healthy amount of time studying and sharpening your skills.
 
 - Sign up for [Project Euler](https://projecteuler.net/) and start solving problems.
 - Sign up for [Interview Cake](https://www.interviewcake.com/all-questions) and start solving problems.
 - Sign up for [Interviewing.io](http://interviewing.io/) and start practicing for interviews.
-- Become familiar with [Big-O](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity). 
+- Become familiar with [Big-O](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity).
 - Find a whiteboard, pick a few questions out of Project Euler or Interview Cake, and test yourself. If you have any developer friends, ask them to do a mock whiteboard interview with you.
 - Read this blog post: [How to Make the Most Out of Your Technical Interview](http://blog.flatironschool.com/how-to-make-the-most-out-of-your-next-technical/)
 - [Read these coding interview tips](https://www.interviewcake.com/article/java/coding-interview-tips)
